@@ -72,5 +72,6 @@ Weekly Bookclub Curriculum to go from Graphics noob to Graphics pro
 - https://github.com/glslify/glslify
 
 #### Resources
+- https://intuitive-math.club/
 - http://www.realtimerendering.com/webgl.html
 - https://github.com/sjfricke/awesome-webgl
