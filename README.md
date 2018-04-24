@@ -6,7 +6,6 @@ Weekly Bookclub Curriculum to go from Graphics noob to Graphics pro
 #### Becoming Competent
 
 0) Overview of the Cozzi Book for Historical Context
-
 1) Udacity Course
 2) Specification readthrough (shaderific)
 3) WebGL2Fundamentals
