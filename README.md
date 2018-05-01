@@ -75,3 +75,5 @@ Weekly Bookclub Curriculum to go from Graphics noob to Graphics pro
 - https://intuitive-math.club/
 - http://www.realtimerendering.com/webgl.html
 - https://github.com/sjfricke/awesome-webgl
+- Interactive Computer Graphics. A Top-Down Approach with WebGL (Edward Angel)
+- WebGL Insights (Patric Cozzi)
