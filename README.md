@@ -11,6 +11,7 @@ Weekly Bookclub Curriculum to go from Graphics noob to Graphics pro
 3) WebGL2Fundamentals
 4) TSherif examples (github)
 5) Book of Shaders
+6) [How OpenGL works: software rendering in 500 lines of code](https://github.com/ssloy/tinyrenderer/wiki)
 
 #### Becoming Cool
 
@@ -41,6 +42,7 @@ Weekly Bookclub Curriculum to go from Graphics noob to Graphics pro
 - https://webgl2fundamentals.org/
 - https://github.com/tsherif/webgl2examples
 - http://thebookofshaders.com/
+- https://github.com/ssloy/tinyrenderer/wiki
 
 #### Applied Learning
 - https://www.youtube.com/watch?v=aNR4n0i2ZlM&list=PL0EpikNmjs2CYUMePMGh3IjjP4tQlYqji
